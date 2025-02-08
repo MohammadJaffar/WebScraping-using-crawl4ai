@@ -23,7 +23,6 @@ async def fetch_markdown(url):
 def main():
     st.title("Web Scraping using Crawl4AI")
     
-    # Inject custom CSS to style the button and text input
     st.markdown("""
         <style>
         .stButton > button {
@@ -39,7 +38,7 @@ def main():
     
     url = st.text_input("Enter URL to get the data from the website:")
     
-    if st.button("Fetch Markdown"):
+    if st.button("Get Data"):
         if url:
             markdown = asyncio.run(fetch_markdown(url))
             st.code(markdown, language='markdown')   
