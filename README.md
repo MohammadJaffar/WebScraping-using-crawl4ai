@@ -10,7 +10,7 @@ Crawl4AI is a web scraping tool that allows users to get the content that's tail
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/crawl4ai.git
+   git clone https: https://github.com/MohammadJaffar/WebScraping-using-crawl4ai.git
    cd crawl4ai
    ```
 
