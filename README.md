@@ -1,4 +1,4 @@
-##Web Scarping using Crawl4AI
+## Web Scarping using Crawl4AI
 
 Crawl4AI is a web scraping tool that allows users to get the content that's tailored for LLMs, AI agents, and data pipelines from a specified URL  using the `crawl4ai` library.
 
